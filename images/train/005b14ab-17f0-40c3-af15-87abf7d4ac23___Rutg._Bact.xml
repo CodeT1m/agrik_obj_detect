@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Peach___Bacterial_spot</folder>
+	<filename>005b14ab-17f0-40c3-af15-87abf7d4ac23___Rutg._Bact.S 2083.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Peach___Bacterial_spot\005b14ab-17f0-40c3-af15-87abf7d4ac23___Rutg._Bact.S 2083.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pbs</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>22</ymin>
+			<xmax>212</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

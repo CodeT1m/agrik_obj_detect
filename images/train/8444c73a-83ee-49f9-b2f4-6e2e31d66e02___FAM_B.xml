@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Grape___Esca_(Black_Measles)</folder>
+	<filename>8444c73a-83ee-49f9-b2f4-6e2e31d66e02___FAM_B.Msls 3927.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Grape___Esca_(Black_Measles)\8444c73a-83ee-49f9-b2f4-6e2e31d66e02___FAM_B.Msls 3927.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>g_ebm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>58</ymin>
+			<xmax>231</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>
