@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tomato___Leaf_Mold</folder>
+	<filename>b2f8fe67-6a72-48ff-b04a-3d9f9368aded___Crnl_L.Mold 6565.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___Leaf_Mold\b2f8fe67-6a72-48ff-b04a-3d9f9368aded___Crnl_L.Mold 6565.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom_Lm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>90</ymin>
+			<xmax>196</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tom_Lm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>20</ymin>
+			<xmax>231</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

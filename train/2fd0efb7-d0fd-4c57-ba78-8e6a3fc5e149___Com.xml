@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tomato___Spider_mites Two-spotted_spider_mite</folder>
+	<filename>2fd0efb7-d0fd-4c57-ba78-8e6a3fc5e149___Com.G_SpM_FL 8926.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___Spider_mites Two-spotted_spider_mite\2fd0efb7-d0fd-4c57-ba78-8e6a3fc5e149___Com.G_SpM_FL 8926.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t_smt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>119</ymin>
+			<xmax>197</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>t_smt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>28</ymin>
+			<xmax>183</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

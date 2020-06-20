@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tomato___Target_Spot</folder>
+	<filename>8a4784b3-5780-4fe1-8158-9eff6f987d1b___Com.G_TgS_FL 8349.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___Target_Spot\8a4784b3-5780-4fe1-8158-9eff6f987d1b___Com.G_TgS_FL 8349.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t_ts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>159</ymin>
+			<xmax>241</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>t_ts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>62</ymin>
+			<xmax>223</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>t_ts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>3</ymin>
+			<xmax>178</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>

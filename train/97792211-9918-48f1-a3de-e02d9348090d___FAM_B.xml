@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Grape___Black_rot</folder>
+	<filename>97792211-9918-48f1-a3de-e02d9348090d___FAM_B.Rot 3517.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Grape___Black_rot\97792211-9918-48f1-a3de-e02d9348090d___FAM_B.Rot 3517.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>g_br</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>128</ymin>
+			<xmax>232</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>g_br</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>77</ymin>
+			<xmax>94</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>g_br</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>111</ymin>
+			<xmax>233</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

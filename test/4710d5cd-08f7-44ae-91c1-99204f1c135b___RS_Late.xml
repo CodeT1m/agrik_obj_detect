@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___Late_blight</folder>
+	<filename>4710d5cd-08f7-44ae-91c1-99204f1c135b___RS_Late.B 6132.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___Late_blight\4710d5cd-08f7-44ae-91c1-99204f1c135b___RS_Late.B 6132.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom_Lb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>92</ymin>
+			<xmax>93</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

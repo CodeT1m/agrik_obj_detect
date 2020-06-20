@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot</folder>
+	<filename>a7dc9342-e554-4245-98f7-d35a3cbd52fe___RS_GLSp 7281.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\a7dc9342-e554-4245-98f7-d35a3cbd52fe___RS_GLSp 7281.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mLs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>83</ymin>
+			<xmax>230</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mLs</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>1</ymin>
+			<xmax>233</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>

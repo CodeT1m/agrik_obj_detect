@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Peach___healthy</folder>
+	<filename>c955c458-0cf8-4ae7-8b16-e14d6db84d67___Rutg._HL 2458.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Peach___healthy\c955c458-0cf8-4ae7-8b16-e14d6db84d67___Rutg._HL 2458.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peach_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>141</ymin>
+			<xmax>186</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>peach_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>59</ymin>
+			<xmax>201</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>peach_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>9</ymin>
+			<xmax>213</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+</annotation>

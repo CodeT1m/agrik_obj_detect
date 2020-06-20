@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Cherry_(including_sour)___Powdery_mildew</folder>
+	<filename>ffdeb404-b84d-4389-9cc9-e1d3159374fe___FREC_Pwd.M 4625.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Cherry_(including_sour)___Powdery_mildew\ffdeb404-b84d-4389-9cc9-e1d3159374fe___FREC_Pwd.M 4625.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cpm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>32</ymin>
+			<xmax>226</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cpm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>4</ymin>
+			<xmax>246</xmax>
+			<ymax>35</ymax>
+		</bndbox>
+	</object>
+</annotation>

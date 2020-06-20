@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pepper,_bell___healthy</folder>
+	<filename>63f6ad32-28e1-459f-a8ab-100f52fc5a2c___JR_HL 7878.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Pepper,_bell___healthy\63f6ad32-28e1-459f-a8ab-100f52fc5a2c___JR_HL 7878.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pp_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>86</ymin>
+			<xmax>232</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pp_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>2</ymin>
+			<xmax>195</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+</annotation>

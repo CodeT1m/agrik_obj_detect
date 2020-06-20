@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Grape___Leaf_blight_(Isariopsis_Leaf_Spot)</folder>
+	<filename>d8957709-48ee-4989-ba12-5d8cf0325bdf___FAM_L.Blight 4734.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\d8957709-48ee-4989-ba12-5d8cf0325bdf___FAM_L.Blight 4734.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>g_Lb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>8</ymin>
+			<xmax>249</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

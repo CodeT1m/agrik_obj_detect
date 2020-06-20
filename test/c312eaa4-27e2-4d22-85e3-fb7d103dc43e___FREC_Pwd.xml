@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Cherry_(including_sour)___Powdery_mildew</folder>
+	<filename>c312eaa4-27e2-4d22-85e3-fb7d103dc43e___FREC_Pwd.M 4644.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Cherry_(including_sour)___Powdery_mildew\c312eaa4-27e2-4d22-85e3-fb7d103dc43e___FREC_Pwd.M 4644.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cpm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>23</ymin>
+			<xmax>100</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cpm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>6</ymin>
+			<xmax>245</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cpm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>97</ymin>
+			<xmax>212</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

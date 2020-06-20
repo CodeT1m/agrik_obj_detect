@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Strawberry___healthy</folder>
+	<filename>7e0587c2-c806-4e7c-a3d6-53b810de904d___RS_HL 4748.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Strawberry___healthy\7e0587c2-c806-4e7c-a3d6-53b810de904d___RS_HL 4748.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sberry_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>7</ymin>
+			<xmax>248</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

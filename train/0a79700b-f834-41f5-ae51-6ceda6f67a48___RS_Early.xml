@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Potato___Early_blight</folder>
+	<filename>0a79700b-f834-41f5-ae51-6ceda6f67a48___RS_Early.B 8951.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Potato___Early_blight\0a79700b-f834-41f5-ae51-6ceda6f67a48___RS_Early.B 8951.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>po_eb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>85</ymin>
+			<xmax>251</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>po_eb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>2</ymin>
+			<xmax>241</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

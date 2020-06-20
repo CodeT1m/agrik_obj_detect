@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Potato___Late_blight</folder>
+	<filename>890ffd2b-7365-4a91-b0e1-f414da0a17a4___RS_LB 3216.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Potato___Late_blight\890ffd2b-7365-4a91-b0e1-f414da0a17a4___RS_LB 3216.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>po_Lb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>24</ymin>
+			<xmax>240</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

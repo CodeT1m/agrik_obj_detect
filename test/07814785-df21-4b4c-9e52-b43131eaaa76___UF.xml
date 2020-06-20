@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tomato___Tomato_Yellow_Leaf_Curl_Virus</folder>
+	<filename>07814785-df21-4b4c-9e52-b43131eaaa76___UF.GRC_YLCV_Lab 09327.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___Tomato_Yellow_Leaf_Curl_Virus\07814785-df21-4b4c-9e52-b43131eaaa76___UF.GRC_YLCV_Lab 09327.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t_ty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>180</ymin>
+			<xmax>87</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>t_ty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>11</ymin>
+			<xmax>191</xmax>
+			<ymax>66</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>t_ty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>67</ymin>
+			<xmax>237</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

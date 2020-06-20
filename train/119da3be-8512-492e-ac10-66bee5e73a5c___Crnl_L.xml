@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tomato___Leaf_Mold</folder>
+	<filename>119da3be-8512-492e-ac10-66bee5e73a5c___Crnl_L.Mold 8770.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___Leaf_Mold\119da3be-8512-492e-ac10-66bee5e73a5c___Crnl_L.Mold 8770.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom_Lm</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>145</ymin>
+			<xmax>207</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tom_Lm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>61</ymin>
+			<xmax>212</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tom_Lm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>3</ymin>
+			<xmax>224</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

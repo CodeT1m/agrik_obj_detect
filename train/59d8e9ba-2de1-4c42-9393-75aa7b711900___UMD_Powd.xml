@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Squash___Powdery_mildew</folder>
+	<filename>59d8e9ba-2de1-4c42-9393-75aa7b711900___UMD_Powd.M 9707.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Squash___Powdery_mildew\59d8e9ba-2de1-4c42-9393-75aa7b711900___UMD_Powd.M 9707.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>squ_pm</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>160</ymin>
+			<xmax>256</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>squ_pm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>37</ymin>
+			<xmax>224</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>squ_pm</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>84</ymin>
+			<xmax>256</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

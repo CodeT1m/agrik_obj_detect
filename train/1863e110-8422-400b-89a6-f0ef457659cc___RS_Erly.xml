@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___Early_blight</folder>
+	<filename>1863e110-8422-400b-89a6-f0ef457659cc___RS_Erly.B 6462.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___Early_blight\1863e110-8422-400b-89a6-f0ef457659cc___RS_Erly.B 6462.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom_eb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>82</ymin>
+			<xmax>167</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

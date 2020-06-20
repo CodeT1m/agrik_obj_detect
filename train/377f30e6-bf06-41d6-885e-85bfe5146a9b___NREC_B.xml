@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pepper,_bell___Bacterial_spot</folder>
+	<filename>377f30e6-bf06-41d6-885e-85bfe5146a9b___NREC_B.Spot 9072.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Pepper,_bell___Bacterial_spot\377f30e6-bf06-41d6-885e-85bfe5146a9b___NREC_B.Spot 9072.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pp_bs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>28</ymin>
+			<xmax>214</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Apple___Cedar_apple_rust</folder>
+	<filename>2824df6c-6e1e-4dc5-9035-098c32988662___FREC_C.Rust 4292.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Apple___Cedar_apple_rust\2824df6c-6e1e-4dc5-9035-098c32988662___FREC_C.Rust 4292.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>18</ymin>
+			<xmax>211</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>130</ymin>
+			<xmax>238</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

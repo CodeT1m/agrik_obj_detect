@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Corn_(maize)___Northern_Leaf_Blight</folder>
+	<filename>e521bbbd-09cd-4ff3-9060-60491b8128b0___RS_NLB 4005.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Corn_(maize)___Northern_Leaf_Blight\e521bbbd-09cd-4ff3-9060-60491b8128b0___RS_NLB 4005.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mLb</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>59</ymin>
+			<xmax>256</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mLb</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>1</ymin>
+			<xmax>256</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>

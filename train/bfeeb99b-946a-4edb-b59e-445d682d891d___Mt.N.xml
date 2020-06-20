@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Grape___healthy</folder>
+	<filename>bfeeb99b-946a-4edb-b59e-445d682d891d___Mt.N.V_HL 6061.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Grape___healthy\bfeeb99b-946a-4edb-b59e-445d682d891d___Mt.N.V_HL 6061.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grape_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>5</ymin>
+			<xmax>238</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Squash___Powdery_mildew</folder>
+	<filename>72295e2e-8ccf-4b40-a428-ed4213d59b76___MD_Powd.M 0790.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Squash___Powdery_mildew\72295e2e-8ccf-4b40-a428-ed4213d59b76___MD_Powd.M 0790.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>squ_pm</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>16</ymin>
+			<xmax>256</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

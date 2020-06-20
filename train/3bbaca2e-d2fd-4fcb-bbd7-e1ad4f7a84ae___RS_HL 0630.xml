@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___healthy</folder>
+	<filename>3bbaca2e-d2fd-4fcb-bbd7-e1ad4f7a84ae___RS_HL 0630.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___healthy\3bbaca2e-d2fd-4fcb-bbd7-e1ad4f7a84ae___RS_HL 0630.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>13</ymin>
+			<xmax>193</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

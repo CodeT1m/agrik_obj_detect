@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Apple___Black_rot</folder>
+	<filename>8c6b887d-0ef4-4b77-8d89-b105a388d1e5___JR_FrgE.S 2749.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Apple___Black_rot\8c6b887d-0ef4-4b77-8d89-b105a388d1e5___JR_FrgE.S 2749.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>8</ymin>
+			<xmax>173</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>abr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>89</ymin>
+			<xmax>235</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>abr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>182</ymin>
+			<xmax>161</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

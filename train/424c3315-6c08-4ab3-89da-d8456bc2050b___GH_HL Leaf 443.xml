@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tomato___healthy</folder>
+	<filename>424c3315-6c08-4ab3-89da-d8456bc2050b___GH_HL Leaf 443.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___healthy\424c3315-6c08-4ab3-89da-d8456bc2050b___GH_HL Leaf 443.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>86</ymin>
+			<xmax>204</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tom_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>14</ymin>
+			<xmax>184</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+</annotation>

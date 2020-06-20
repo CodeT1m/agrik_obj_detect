@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tomato___Septoria_leaf_spot</folder>
+	<filename>3f6c0ef0-068b-4566-a643-9a368d50bdc4___JR_Sept.L.S 8380.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___Septoria_leaf_spot\3f6c0ef0-068b-4566-a643-9a368d50bdc4___JR_Sept.L.S 8380.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t_sLs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>11</ymin>
+			<xmax>172</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>t_sLs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>93</ymin>
+			<xmax>57</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>t_sLs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>139</ymin>
+			<xmax>74</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

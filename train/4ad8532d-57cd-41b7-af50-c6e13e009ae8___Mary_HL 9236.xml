@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Raspberry___healthy</folder>
+	<filename>4ad8532d-57cd-41b7-af50-c6e13e009ae8___Mary_HL 9236.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Raspberry___healthy\4ad8532d-57cd-41b7-af50-c6e13e009ae8___Mary_HL 9236.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rasp_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>64</ymin>
+			<xmax>228</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rasp_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>12</ymin>
+			<xmax>186</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Corn_(maize)___healthy</folder>
+	<filename>a0fbdc10-db9a-43d3-9ef7-87e07e106ba8___R.S_HL 8167 copy.jpg</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Corn_(maize)___healthy\a0fbdc10-db9a-43d3-9ef7-87e07e106ba8___R.S_HL 8167 copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mh</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>256</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

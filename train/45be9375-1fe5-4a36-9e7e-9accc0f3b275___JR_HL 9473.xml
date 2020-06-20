@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Cherry_(including_sour)___healthy</folder>
+	<filename>45be9375-1fe5-4a36-9e7e-9accc0f3b275___JR_HL 9473.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Cherry_(including_sour)___healthy\45be9375-1fe5-4a36-9e7e-9accc0f3b275___JR_HL 9473.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>77</ymin>
+			<xmax>241</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>6</ymin>
+			<xmax>206</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>

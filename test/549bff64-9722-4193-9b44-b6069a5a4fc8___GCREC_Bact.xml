@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tomato___Bacterial_spot</folder>
+	<filename>549bff64-9722-4193-9b44-b6069a5a4fc8___GCREC_Bact.Sp 6312.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___Bacterial_spot\549bff64-9722-4193-9b44-b6069a5a4fc8___GCREC_Bact.Sp 6312.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom_bs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>114</ymin>
+			<xmax>142</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tom_bs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>84</ymin>
+			<xmax>189</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tom_bs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>9</ymin>
+			<xmax>126</xmax>
+			<ymax>33</ymax>
+		</bndbox>
+	</object>
+</annotation>

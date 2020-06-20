@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___Septoria_leaf_spot</folder>
+	<filename>57364d0e-48f0-49e4-89a3-5a697c6efa5b___Keller.St_CG 1813.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___Septoria_leaf_spot\57364d0e-48f0-49e4-89a3-5a697c6efa5b___Keller.St_CG 1813.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t_sLs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>35</ymin>
+			<xmax>193</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

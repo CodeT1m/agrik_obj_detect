@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___Bacterial_spot</folder>
+	<filename>67da0ec7-c06a-4d27-af36-17b4a1630830___GCREC_Bact.Sp 5619.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___Bacterial_spot\67da0ec7-c06a-4d27-af36-17b4a1630830___GCREC_Bact.Sp 5619.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom_bs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>19</ymin>
+			<xmax>238</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

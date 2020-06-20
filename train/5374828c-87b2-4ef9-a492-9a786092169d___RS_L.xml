@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Strawberry___Leaf_scorch</folder>
+	<filename>5374828c-87b2-4ef9-a492-9a786092169d___RS_L.Scorch 9938.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Strawberry___Leaf_scorch\5374828c-87b2-4ef9-a492-9a786092169d___RS_L.Scorch 9938.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sberry_Ls</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>35</ymin>
+			<xmax>149</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sberry_Ls</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>4</ymin>
+			<xmax>218</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+</annotation>

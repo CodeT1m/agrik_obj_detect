@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Apple___Apple_scab</folder>
+	<filename>7897b5dc-7aa6-48b2-8c18-a30fcd6cae94___FREC_Scab 3203.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Apple___Apple_scab\7897b5dc-7aa6-48b2-8c18-a30fcd6cae94___FREC_Scab 3203.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>as</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>11</ymin>
+			<xmax>247</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>as</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>49</ymin>
+			<xmax>220</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>as</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>190</ymin>
+			<xmax>184</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

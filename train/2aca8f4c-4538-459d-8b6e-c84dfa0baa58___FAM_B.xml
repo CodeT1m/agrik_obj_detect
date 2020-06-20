@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Grape___Black_rot</folder>
+	<filename>2aca8f4c-4538-459d-8b6e-c84dfa0baa58___FAM_B.Rot 3247.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Grape___Black_rot\2aca8f4c-4538-459d-8b6e-c84dfa0baa58___FAM_B.Rot 3247.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>g_br</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>78</ymin>
+			<xmax>218</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

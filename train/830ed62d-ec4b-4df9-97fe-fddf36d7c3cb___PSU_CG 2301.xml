@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___Tomato_mosaic_virus</folder>
+	<filename>830ed62d-ec4b-4df9-97fe-fddf36d7c3cb___PSU_CG 2301.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Tomato___Tomato_mosaic_virus\830ed62d-ec4b-4df9-97fe-fddf36d7c3cb___PSU_CG 2301.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t_tmv</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>70</ymin>
+			<xmax>231</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

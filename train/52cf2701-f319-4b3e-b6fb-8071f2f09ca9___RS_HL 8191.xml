@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Apple___healthy</folder>
+	<filename>52cf2701-f319-4b3e-b6fb-8071f2f09ca9___RS_HL 8191.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Apple___healthy\52cf2701-f319-4b3e-b6fb-8071f2f09ca9___RS_HL 8191.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>14</ymin>
+			<xmax>216</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

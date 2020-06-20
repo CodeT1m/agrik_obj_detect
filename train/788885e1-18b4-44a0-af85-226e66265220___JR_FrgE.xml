@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Apple___Black_rot</folder>
+	<filename>788885e1-18b4-44a0-af85-226e66265220___JR_FrgE.S 8574.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Apple___Black_rot\788885e1-18b4-44a0-af85-226e66265220___JR_FrgE.S 8574.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>15</ymin>
+			<xmax>228</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

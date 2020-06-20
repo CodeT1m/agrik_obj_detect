@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Apple___Apple_scab</folder>
+	<filename>a72a9033-d2b9-4c64-93bc-7e5a1a0ea4ae___FREC_Scab 3284.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Apple___Apple_scab\a72a9033-d2b9-4c64-93bc-7e5a1a0ea4ae___FREC_Scab 3284.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>as</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>8</ymin>
+			<xmax>246</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

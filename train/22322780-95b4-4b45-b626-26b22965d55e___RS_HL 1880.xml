@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Potato___healthy</folder>
+	<filename>22322780-95b4-4b45-b626-26b22965d55e___RS_HL 1880.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Potato___healthy\22322780-95b4-4b45-b626-26b22965d55e___RS_HL 1880.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potato_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>90</ymin>
+			<xmax>228</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>potato_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>9</ymin>
+			<xmax>217</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+</annotation>
