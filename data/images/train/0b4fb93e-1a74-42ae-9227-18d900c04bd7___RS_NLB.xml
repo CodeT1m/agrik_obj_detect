@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Corn_(maize)___Northern_Leaf_Blight</folder>
-	<filename>0b112f62-54d5-4395-9f7c-d7ef05290be4___RS_NLB 4196.JPG</filename>
-	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Corn_(maize)___Northern_Leaf_Blight\0b112f62-54d5-4395-9f7c-d7ef05290be4___RS_NLB 4196.JPG</path>
+	<filename>0b4fb93e-1a74-42ae-9227-18d900c04bd7___RS_NLB.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Corn_(maize)___Northern_Leaf_Blight\0b4fb93e-1a74-42ae-9227-18d900c04bd7___RS_NLB 3670.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>7</xmin>
+			<xmin>1</xmin>
 			<ymin>1</ymin>
 			<xmax>256</xmax>
-			<ymax>127</ymax>
+			<ymax>89</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,9 +29,9 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>44</xmin>
-			<ymin>128</ymin>
-			<xmax>239</xmax>
+			<xmin>21</xmin>
+			<ymin>89</ymin>
+			<xmax>256</xmax>
 			<ymax>256</ymax>
 		</bndbox>
 	</object>
