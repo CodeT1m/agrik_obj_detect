@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Peach___Bacterial_spot</folder>
-	<filename>0a55c94c-4ed3-4015-bf5e-e80ce8a720ea___Rutg._Bact.S 1710.JPG</filename>
-	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Peach___Bacterial_spot\0a55c94c-4ed3-4015-bf5e-e80ce8a720ea___Rutg._Bact.S 1710.JPG</path>
+	<filename>00e6ad4a-5a62-48d7-ac68-9c0b8ec87f5f___Rut.JPG</filename>
+	<path>C:\Users\TimmySagacity\Desktop\Plant diseases\PlantVillage\train\Peach___Bacterial_spot\00e6ad4a-5a62-48d7-ac68-9c0b8ec87f5f___Rut._Bact.S 1472.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>49</xmin>
-			<ymin>153</ymin>
-			<xmax>157</xmax>
+			<xmin>34</xmin>
+			<ymin>155</ymin>
+			<xmax>228</xmax>
 			<ymax>256</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>73</xmin>
-			<ymin>23</ymin>
-			<xmax>195</xmax>
-			<ymax>153</ymax>
+			<xmin>52</xmin>
+			<ymin>5</ymin>
+			<xmax>232</xmax>
+			<ymax>156</ymax>
 		</bndbox>
 	</object>
 </annotation>
